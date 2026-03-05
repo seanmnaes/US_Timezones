@@ -13,12 +13,6 @@ A minimal, dark-mode web dashboard displaying real-time clocks for the four majo
 
 ## Usage
 
-Open `index.html` in any modern browser:
-
-```bash
-open index.html
-```
-
 No build step, dependencies, or server required — it's a single self-contained HTML file.
 
 ## Layout
